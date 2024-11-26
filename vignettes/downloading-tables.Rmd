@@ -1,0 +1,21 @@
+---
+title: "Downloading the tables"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{downloading-tables}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(SSMdata)
+```
+
+Explain how to get the tables

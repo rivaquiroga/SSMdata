@@ -1,0 +1,18 @@
+---
+title: "About the Sustainability Sciences Metrics Database"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(SSMdata)
+```
+
+
+- Brief paragraph about data collection 
+- The tables: what they contain + how are they connected

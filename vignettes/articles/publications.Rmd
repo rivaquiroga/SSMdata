@@ -1,0 +1,16 @@
+---
+title: "Publications"
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(SSMdata)
+```
+
+List of publications using this data + instructions on how to add an entry to the list
